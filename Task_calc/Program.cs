@@ -10,8 +10,8 @@ namespace Task_calc
     {
         static void Main(string[] args)
         {
-            int a = 0, b = 0, oper = 0; 
-            double res=0;
+            int a = 0, b = 0, oper = 0;
+            double res = 0;
             try {
                 Console.Write("Вас приветсвует калькулятор\n" +
                 "Введите целое число. X = ");
@@ -58,8 +58,8 @@ namespace Task_calc
 
             }
             Console.ReadKey();
-            
-                
+
+
 
         }
     }
